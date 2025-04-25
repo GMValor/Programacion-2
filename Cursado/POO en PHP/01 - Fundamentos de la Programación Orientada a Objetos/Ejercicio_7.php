@@ -14,5 +14,5 @@ $producto->nombre = "Laptop";
 $producto->precio = 800;
 $producto->stock = 5;
 
-echo"Producto: ". $producto->nombre . " Valor de inventario: $" . $producto->valorInventario();
+echo "Producto: ". $producto->nombre . " Valor de inventario: $" . $producto->valorInventario();
 ?>
